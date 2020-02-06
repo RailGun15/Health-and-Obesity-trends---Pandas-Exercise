@@ -1,2 +1,2 @@
 # Health-and-Obesity-trends---Pandas-Exercise
-A simple analysis of health and obesity trends
+This analysis is an exercise in reading data from different sources and building dataframes from them
